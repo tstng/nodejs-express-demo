@@ -33,6 +33,7 @@ Ahora, abra su navegador y navegue hasta [http://localhost:3000](http://localhos
 2. En la barra de búsqueda escribimos: *App Services*
 3. Damos clic en *Nuevo*
 4. En la página Web App (Aplicación web), rellene estos campos:
+
 | Campo                       | Valor                                                                                                                                                                                                                                                                        |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Suscripción                 | Su suscripción de Azure.                                                                                                                                                                                                                                                     |
